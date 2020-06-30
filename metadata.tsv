@@ -1,25 +1,25 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	lyricist	musescore	source	workTitle
-MS3/n01.mscx	n01	.mscx	2f536ca250b24b1c094e13c629acf13c	216	-1, 2, -1	2/4	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise
-MS3/n02.mscx	n02	.mscx	59785b9de3b19f52375dd359f70a034f	70		6/8	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise
-MS3/n03.mscx	n03	.mscx	08c8ee34b9674f4b640f711f2de9148b	141	-4	2/2	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise
-MS3/n04.mscx	n04	.mscx	14d45afdb4e789e726c7eea75a9f3006	188	-3	4/4			3.4.2		
-MS3/n05.mscx	n05	.mscx	2f7e34406eef5219d7b956d7978dd219	245	4	3/4			3.4.2		
-MS3/n06.mscx	n06	.mscx	bef4edc1d5cbc9f6107ceefda842693d	44	3	3/4			3.4.2		
-MS3/n07.mscx	n07	.mscx	76febfc370a2e3d28075235d98a79322	176	1, 4, 1	2/4			3.4.2		
-MS3/n08.mscx	n08	.mscx	40a8907966d956cd8f30fe9a2c5c1726	353	-2, 1, -2, 1	3/4			3.4.2		
-MS3/n09.mscx	n09	.mscx	6fd23cf8dc04f4a5560ee404ea197864	72	2	3/8			3.4.2		
-MS3/n10.mscx	n10	.mscx	b76f17b3cb32946e6fec34c7608376f8	105	-3	2/4			3.4.2		
-MS3/n11.mscx	n11	.mscx	8c877a4b91b8f980f665488e5bb7c75a	168	3	6/8, 2/4, 6/8, 2/4			3.4.2		
-MS3/n12.mscx	n12	.mscx	428b0322124b285a3075bdc3a4509bbe	82	2	2/4			3.4.2		
-MS3/n13.mscx	n13	.mscx	43fd90623566c7ced627923b9cb296dc	111	-3	6/8			3.4.2		
-MS3/n14.mscx	n14	.mscx	59a8e45724ca2f01720c835799a3507d	57	-3	3/4			3.4.2		
-MS3/n15.mscx	n15	.mscx	04f3f2473547da7f4c4c8ca033d1ee65	169	-3	2/4			3.4.2		
-MS3/n16.mscx	n16	.mscx	c548335f129920ffcfb329a79d3be05f	101	-3	3/4			3.4.2		
-MS3/n17.mscx	n17	.mscx	35b0cb20915ee9f46dee73dcfe484145	112	2	12/8			3.4.2		
-MS3/n18.mscx	n18	.mscx	17f7e3fd6345690144b457edd9255e77	61	-1	4/4			3.4.2		
-MS3/n19.mscx	n19	.mscx	6d729ecbd9f0a2bb3c96757211ece7c2	66	3	6/8			3.4.2		
-MS3/n20.mscx	n20	.mscx	7c15b02ba5d2e7a44e1c7322b6813b9b	167	-2, 1, -2	2/4			3.4.2		
-MS3/n21.mscx	n21	.mscx	b5ed94cc2a969516e3b6396d15f46a75	153	-1	4/4			3.4.2		
-MS3/n22.mscx	n22	.mscx	9fc46137ddbee05304ba3c7879ddbe9a	80	3, 0	2/4			3.4.2		
-MS3/n23.mscx	n23	.mscx	a96475a4bc07c77b8f9afd9ff4d6348e	87	3	3/4			3.4.2		
-MS3/n24.mscx	n24	.mscx	766dfe7f1767d053f7f4032beecbf509	79		3/4			3.4.2		
+path	filename	extension	md5	label_count	KeySig	TimeSig	composer	lyricist	musescore	source	workTitle	composed_start	composed_end	annotator	reviewer
+MS3/n01.mscx	n01	.mscx	2f536ca250b24b1c094e13c629acf13c	216	-1, 2, -1	2/4	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise	1827	1828	Alexander Faschon	Johannes Hentschel
+MS3/n02.mscx	n02	.mscx	59785b9de3b19f52375dd359f70a034f	70		6/8	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise	1827	1828	Alexander Faschon	Johannes Hentschel
+MS3/n03.mscx	n03	.mscx	08c8ee34b9674f4b640f711f2de9148b	141	-4	2/2	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise	1827	1828	Alexander Faschon	Johannes Hentschel
+MS3/n04.mscx	n04	.mscx	14d45afdb4e789e726c7eea75a9f3006	188	-3	4/4			3.4.2			1827	1828	Alexander Faschon	Johannes Hentschel
+MS3/n05.mscx	n05	.mscx	2f7e34406eef5219d7b956d7978dd219	245	4	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n06.mscx	n06	.mscx	bef4edc1d5cbc9f6107ceefda842693d	44	3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n07.mscx	n07	.mscx	76febfc370a2e3d28075235d98a79322	176	1, 4, 1	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n08.mscx	n08	.mscx	40a8907966d956cd8f30fe9a2c5c1726	353	-2, 1, -2, 1	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n09.mscx	n09	.mscx	6fd23cf8dc04f4a5560ee404ea197864	72	2	3/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n10.mscx	n10	.mscx	b76f17b3cb32946e6fec34c7608376f8	105	-3	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n11.mscx	n11	.mscx	8c877a4b91b8f980f665488e5bb7c75a	168	3	6/8, 2/4, 6/8, 2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n12.mscx	n12	.mscx	428b0322124b285a3075bdc3a4509bbe	82	2	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n13.mscx	n13	.mscx	43fd90623566c7ced627923b9cb296dc	111	-3	6/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n14.mscx	n14	.mscx	59a8e45724ca2f01720c835799a3507d	57	-3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n15.mscx	n15	.mscx	04f3f2473547da7f4c4c8ca033d1ee65	169	-3	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n16.mscx	n16	.mscx	c548335f129920ffcfb329a79d3be05f	101	-3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n17.mscx	n17	.mscx	35b0cb20915ee9f46dee73dcfe484145	112	2	12/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n18.mscx	n18	.mscx	17f7e3fd6345690144b457edd9255e77	61	-1	4/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n19.mscx	n19	.mscx	6d729ecbd9f0a2bb3c96757211ece7c2	66	3	6/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n20.mscx	n20	.mscx	7c15b02ba5d2e7a44e1c7322b6813b9b	167	-2, 1, -2	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n21.mscx	n21	.mscx	b5ed94cc2a969516e3b6396d15f46a75	153	-1	4/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n22.mscx	n22	.mscx	9fc46137ddbee05304ba3c7879ddbe9a	80	3, 0	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n23.mscx	n23	.mscx	a96475a4bc07c77b8f9afd9ff4d6348e	87	3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+MS3/n24.mscx	n24	.mscx	766dfe7f1767d053f7f4032beecbf509	79		3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
