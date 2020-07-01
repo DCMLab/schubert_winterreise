@@ -2472,8 +2472,6 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>VI</name>
             </Harmony>
           <Rest>
@@ -2630,8 +2628,6 @@
             <fractions>1/8</fractions>
             </location>
           <Harmony>
-            <root>19</root>
-            <rootCase>1</rootCase>
             <name>VI</name>
             <offset x="0" y="-3"/>
             </Harmony>
