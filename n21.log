@@ -1,0 +1,5 @@
+Attempting to parse n21.mscx
+Done parsing n21.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable
