@@ -1,3 +1,13 @@
 Attempting to parse n15.mscx
 Done parsing n15.mscx
 
+The following chords could not be parsed:
+     mc  mn onset   label
+ix                       
+8     3   3     0    .bII
+13    4   4   1/8   .bII6
+88   22  22   3/8  .It6/V
+156  40  40     0    .bII
+161  41  41   1/8   .bII6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'

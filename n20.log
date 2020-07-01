@@ -1,3 +1,18 @@
 Attempting to parse n20.mscx
 Done parsing n20.mscx
 
+The following chords could not be parsed:
+     mc  mn onset   label
+ix                       
+4     4   3   1/4    .Fr6
+22   12  11   1/4  .bII64
+29   14  13   1/4   .bI64
+78   39  38     0   .Ger6
+96   47  46   1/4  .bII64
+103  49  48   1/4   .bI64
+138  67  66   1/8   .bII6
+144  72  71     0    .It6
+152  77  76   1/8   .bII6
+158  79  78   1/4   .Ger6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'
