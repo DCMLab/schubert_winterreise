@@ -1,5 +1,3 @@
-Attempting to parse n24.mscx
-Done parsing n24.mscx
+INFO     n24.ms3 -- Attempting to parse n24.mscx
+INFO     n24.ms3 -- Done parsing n24.mscx
 
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

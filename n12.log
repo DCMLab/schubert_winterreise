@@ -1,10 +1,12 @@
-Attempting to parse n12.mscx
-Done parsing n12.mscx
+INFO     n12.ms3 -- Attempting to parse n12.mscx
+WARNING  n12.ms3 -- Event 279 in MC 24 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 280 in MC 24 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 300 in MC 26 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 301 in MC 26 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 531 in MC 36 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 532 in MC 36 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 552 in MC 38 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+WARNING  n12.ms3 -- Event 553 in MC 38 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
+INFO     n12.ms3 -- Done parsing n12.mscx
 
-The following chords could not be parsed:
-    mc  mn onset   label
-ix                      
-55  32  32   3/8  .Ger6]
-78  44  44   3/8  .Ger6]
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  n12.expand_labels -- #viio in major context is most probably an annotation error.

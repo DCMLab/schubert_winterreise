@@ -1,12 +1,7 @@
-Attempting to parse n21.mscx
-Done parsing n21.mscx
+INFO     n21.ms3 -- Attempting to parse n21.mscx
+INFO     n21.ms3 -- Done parsing n21.mscx
 
-The following chords could not be parsed:
-     mc  mn onset  label
-ix                      
-61   13  13   1/4  V//ii
-115  24  24   1/2  .bIII
-117  25  25   1/4  .bIII
-131  27  27   1/4  .bIII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  n21.expand_labels -- The following chords could not be parsed:
+    mc  mn onset  label
+ix                     
+61  13  13   1/4  V//ii

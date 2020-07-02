@@ -1,16 +1,7 @@
-Attempting to parse n01.mscx
-Doublings: mc  onset
+INFO     n01.ms3 -- Attempting to parse n01.mscx
+WARNING  n01.ms3 -- Doublings: mc  onset
 22  3/8      V
     3/8      I
 Name: chords, dtype: object
-Done parsing n01.mscx
+INFO     n01.ms3 -- Done parsing n01.mscx
 
-The following chords could not be parsed:
-     mc  mn onset     label
-30   16  16     0    .III.I
-95   48  48     0    .III.I
-119  56  56     0  .i.ii%65
-145  71  71     0    .I.I\\
-200  97  97   3/8  .i.V(64)
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
