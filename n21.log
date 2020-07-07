@@ -1,7 +1,2 @@
 INFO     n21.ms3 -- Attempting to parse n21.mscx
 INFO     n21.ms3 -- Done parsing n21.mscx
-
-WARNING  n21.expand_labels -- The following chords could not be parsed:
-    mc  mn onset  label
-ix                     
-61  13  13   1/4  V//ii

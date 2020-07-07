@@ -133,6 +133,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -1044,7 +1045,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V//ii</name>
+            <name>V7/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>

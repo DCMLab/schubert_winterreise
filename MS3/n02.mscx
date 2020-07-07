@@ -144,6 +144,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -2983,7 +2984,7 @@ XXIV Der Leiermann</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>vii.#viio65/V</name>
+            <name>vii.viio65/V</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>

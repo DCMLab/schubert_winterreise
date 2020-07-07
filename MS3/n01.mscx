@@ -144,6 +144,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -1634,6 +1635,7 @@ XXIV Der Leiermann</text>
         <voice>
           <Harmony>
             <name>VI.V43</name>
+            <offset x="0.136292" y="-3.18146"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -7291,9 +7293,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>

@@ -1,4 +1,2 @@
 INFO     n02.ms3 -- Attempting to parse n02.mscx
 INFO     n02.ms3 -- Done parsing n02.mscx
-
-WARNING  n02.expand_labels -- MC 42: #viio65 in major context is most probably an annotation error.
