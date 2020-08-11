@@ -9,3 +9,21 @@ WARNING  n12.ms3 -- Event 552 in MC 38 has has duration 1/2 and starts on 1/2, s
 WARNING  n12.ms3 -- Event 553 in MC 38 has has duration 1/2 and starts on 1/2, surpassing the measure length of 1/2
 INFO     n12.ms3 -- Done parsing n12.mscx
 
+WARNING  n12.expand_labels -- The following chords could not be parsed:
+    mc  mn onset   label
+ix                      
+55  32  32   3/8  .Ger6]
+78  44  44   3/8  .Ger6]
+ERROR    n12 -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "scripts/parallel_parse.py", line 93, in parse
+    expanded = expand_labels(chord_list, column='label', regex=regex, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 421, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 747, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended:\n{make_comparison()}"
+AssertionError: 3 organ points started, 1 ended:
+   mc pedal    mc pedalend
+0   1     i    14        ]
+1  29    VI  <NA>      NaN
+2  41    VI  <NA>      NaN
