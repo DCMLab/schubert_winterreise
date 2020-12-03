@@ -56,14 +56,14 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 22	21	0	0	2/2	1	1	V\\	f	i		V		V					\\	M	1	1	1, 5, 2		1	1
 22	21	3/4	3/4	2/2	1	1	iv6	f	i		iv6		iv		6				m	1	1	-4, 0, -1		-1	-4
 23	22	0	0	2/2	1	1	V	f	i		V		V						M	1	1	1, 5, 2		1	1
-23	22	1/2	1/2	2/2	1	1	It6	f	i		It6	It	vii	o	6	b3	V		M	1	1	-4, 0, 6		6	-4
+23	22	1/2	1/2	2/2	1	1	It6	f	i		It6	It	vii	o	6	b3	V		It	1	1	-4, 0, 6		6	-4
 24	23	0	0	2/2	1	1	V	f	i		V		V						M	1	1	1, 5, 2		1	1
 24	23	1/2	1/2	2/2	1	1	viio7/V	f	i		viio7/V		vii	o	7		V		o7	1	1	6, 3, 0, -3		6	6
 25	24	0	0	2/2	1	1	V\\	f	i		V		V					\\	M	1	1	1, 5, 2		1	1
 26	25	0	0	2/2	1	1	III.V	f	III		V		V						M	1	0	1, 5, 2		1	1
 26	25	1/2	1/2	2/2	1	1	iv6	f	III		iv6		iv		6				m	1	0	-4, 0, -1		-1	-4
 27	26	0	0	2/2	1	1	V	f	III		V		V						M	1	0	1, 5, 2		1	1
-27	26	1/2	1/2	2/2	1	1	It6	f	III		It6	It	vii	o	6	b3	V		M	1	0	-4, 0, 6		6	-4
+27	26	1/2	1/2	2/2	1	1	It6	f	III		It6	It	vii	o	6	b3	V		It	1	0	-4, 0, 6		6	-4
 28	27	0	0	2/2	1	1	V	f	III		V		V						M	1	0	1, 5, 2		1	1
 28	27	1/2	1/2	2/2	1	1	viio7/V	f	III		viio7/V		vii	o	7		V		o7	1	0	6, 3, 0, -3		6	6
 29	28	0	0	2/2	1	1	V\\	f	III		V		V					\\	M	1	0	1, 5, 2		1	1
@@ -90,7 +90,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 36	35	0	0	2/2	1	1	.bII.V(64)	f	bII		V(64)		V			64			M	1	0	1, 0, 4		1	1
 37	36	0	0	2/2	1	1	V7	f	bII		V7		V		7				Mm7	1	0	1, 5, 2, -1		1	1
 38	37	0	0	2/2	1	1	V(64)	f	bII		V(64)		V			64			M	1	0	1, 0, 4		1	1
-38	37	3/4	3/4	2/2	1	1	i.Ger6	f	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+38	37	3/4	3/4	2/2	1	1	i.Ger6	f	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 39	38	0	0	2/2	1	1	V(64)	f	i		V(64)		V			64			M	1	1	1, 0, -3		1	1
 39	38	1/4	1/4	2/2	1	1	iv(7)	f	i		iv(7)		iv			7			m	1	1	-1, -4, 0	-3	-1	-1
 39	38	3/8	3/8	2/2	1	1	iv	f	i		iv		iv						m	1	1	-1, -4, 0		-1	-1
@@ -118,7 +118,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 46	45	0	0	2/2	1	1	.bII.V(64)	f	bII		V(64)		V			64			M	1	0	1, 0, 4		1	1
 47	46	0	0	2/2	1	1	V7	f	bII		V7		V		7				Mm7	1	0	1, 5, 2, -1		1	1
 48	47	0	0	2/2	1	1	V(64)	f	bII		V(64)		V			64			M	1	0	1, 0, 4		1	1
-48	47	3/4	3/4	2/2	1	1	i.Ger6	f	i		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+48	47	3/4	3/4	2/2	1	1	i.Ger6	f	i		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 49	48	0	0	2/2	1	1	V(64)	f	i		V(64)		V			64			M	1	1	1, 0, -3		1	1
 49	48	1/4	1/4	2/2	1	1	iv(7)	f	i		iv(7)		iv			7			m	1	1	-1, -4, 0	-3	-1	-1
 49	48	3/8	3/8	2/2	1	1	iv	f	i		iv		iv						m	1	1	-1, -4, 0		-1	-1

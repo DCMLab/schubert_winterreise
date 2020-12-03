@@ -87,7 +87,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 22	22	0	0	2/4	1	1	IV	c	i		IV		IV						M	1	1	-1, 3, 0		-1	-1
 22	22	1/8	1/8	2/4	1	1	#viio43/ii	c	i		#viio43/ii		#vii	o	43		ii		o7	1	1	1, -2, 7, 4		7	1
 22	22	1/4	1/4	2/4	1	1	V6/V	c	i		V6/V		V		6		V		M	1	1	6, 3, 2		2	6
-22	22	3/8	3/8	2/4	1	1	.It6/V	c	i		It6/V	It	vii	o	6	b3	V/V		M	1	1	-3, 1, 7		7	-3
+22	22	3/8	3/8	2/4	1	1	.It6/V	c	i		It6/V	It	vii	o	6	b3	V/V		It	1	1	-3, 1, 7		7	-3
 23	23	0	0	2/4	1	1	V(9)/V	c	i		V(9)/V		V			9	V		M	1	1	2, 6, 3	4	2	2
 23	23	1/8	1/8	2/4	1	1	V/V	c	i		V/V		V				V		M	1	1	2, 6, 3		2	2
 23	23	1/4	1/4	2/4	1	1	V65	c	i		V65		V		65				Mm7	1	1	5, 2, -1, 1		1	5

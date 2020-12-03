@@ -9,7 +9,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 5	4	1/2	1/2	3/4	1	1	V\\	Eb	I		V		V					\\	M	0	0	1, 5, 2		1	1
 5	4	5/8	5/8	3/4	1	1	viio7	Eb	I		viio7		vii	o	7				o7	0	0	5, 2, -1, -4		5	5
 7	6	0	0	3/4	1	1	V7	Eb	I		V7		V		7				Mm7	0	0	1, 5, 2, -1		1	1
-7	6	1/8	1/8	3/4	1	1	.It6	Eb	I		It6	It	vii	o	6	b3	V		M	0	0	-4, 0, 6		6	-4
+7	6	1/8	1/8	3/4	1	1	.It6	Eb	I		It6	It	vii	o	6	b3	V		It	0	0	-4, 0, 6		6	-4
 7	6	1/4	1/4	3/4	1	1	V	Eb	I		V		V						M	0	0	1, 5, 2		1	1
 7	6	3/8	3/8	3/4	1	1	viio7(+2)/V	Eb	I		viio7(+2)/V		vii	o	7	+2	V		o7	0	0	6, 3, 0, -3	1	6	6
 7	6	1/2	1/2	3/4	1	1	V7	Eb	I		V7		V		7				Mm7	0	0	1, 5, 2, -1		1	1
@@ -22,7 +22,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 9	8	0	0	3/4	1	1	I\\	Eb	I		I		I					\\	M	0	0	0, 4, 1		0	0
 9	8	5/8	5/8	3/4	1	1	viio7	Eb	I		viio7		vii	o	7				o7	0	0	5, 2, -1, -4		5	5
 11	10	0	0	3/4	1	1	V7	Eb	I		V7		V		7				Mm7	0	0	1, 5, 2, -1		1	1
-11	10	1/8	1/8	3/4	1	1	.It6	Eb	I		It6	It	vii	o	6	b3	V		M	0	0	-4, 0, 6		6	-4
+11	10	1/8	1/8	3/4	1	1	.It6	Eb	I		It6	It	vii	o	6	b3	V		It	0	0	-4, 0, 6		6	-4
 11	10	1/4	1/4	3/4	1	1	V	Eb	I		V		V						M	0	0	1, 5, 2		1	1
 11	10	3/8	3/8	3/4	1	1	viio7(+2)/V	Eb	I		viio7(+2)/V		vii	o	7	+2	V		o7	0	0	6, 3, 0, -3	1	6	6
 11	10	1/2	1/2	3/4	1	1	V7	Eb	I		V7		V		7				Mm7	0	0	1, 5, 2, -1		1	1
@@ -39,19 +39,19 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 19	18	0	0	3/4	1	1	V7(9)/vi	Eb	I		V7(9)/vi		V		7	9	vi		Mm7	0	0	4, 8, 5, 2	-1	4	4
 20	19	0	0	3/4	1	1	i.V7(9)	Eb	i		V7(9)		V		7	9			Mm7	0	1	1, 5, 2, -1	-4	1	1
 21	20	1/2	1/2	3/4	1	1	i	Eb	i		i		i						m	0	1	0, -3, 1		0	0
-22	21	0	0	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+22	21	0	0	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 23	22	0	0	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
-23	22	1/8	1/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+23	22	1/8	1/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 23	22	1/4	1/4	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
-23	22	3/8	3/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+23	22	3/8	3/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 23	22	1/2	1/2	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
-23	22	5/8	5/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+23	22	5/8	5/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 24	23	0	0	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
-24	23	1/8	1/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+24	23	1/8	1/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 24	23	1/4	1/4	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
-24	23	3/8	3/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+24	23	3/8	3/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 24	23	1/2	1/2	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
-24	23	5/8	5/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		M	0	1	2, 6, -4, 0		2	2
+24	23	5/8	5/8	3/4	1	1	.Fr6	Eb	i		Fr6	Fr	V		7	b5	V		Fr	0	1	2, 6, -4, 0		2	2
 25	24	0	0	3/4	1	1	V\\	Eb	i		V		V					\\	M	0	1	1, 5, 2		1	1
 25	24	5/8	5/8	3/4	1	1	iv	Eb	i		iv		iv						m	0	1	-1, -4, 0		-1	-1
 26	25	5/8	5/8	3/4	1	1	V	Eb	i		V		V						M	0	1	1, 5, 2		1	1
