@@ -1,100 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.01">
-  <programVersion>3.4.2</programVersion>
-  <programRevision>148e43f</programRevision>
+<museScore version="3.02">
+  <programVersion>3.6.2</programVersion>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27</pageWidth>
-      <pageHeight>11.69</pageHeight>
-      <pagePrintableWidth>7.4826</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <staffDistance>12</staffDistance>
       <akkoladeDistance>12</akkoladeDistance>
+      <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashForce>0</lyricsDashForce>
+      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
+      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
       <lyricsOddFontSize>10</lyricsOddFontSize>
       <lyricsOddFramePadding>0</lyricsOddFramePadding>
       <lyricsOddFrameWidth>0</lyricsOddFrameWidth>
+      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
       <lyricsEvenFontSize>10</lyricsEvenFontSize>
       <lyricsEvenFramePadding>0</lyricsEvenFramePadding>
       <lyricsEvenFrameWidth>0</lyricsEvenFrameWidth>
-      <doubleBarDistance>0.46</doubleBarDistance>
-      <endBarDistance>0.65</endBarDistance>
+      <barWidth>0.18</barWidth>
+      <doubleBarWidth>0.18</doubleBarWidth>
+      <endBarWidth>0.55</endBarWidth>
+      <doubleBarDistance>0.55</doubleBarDistance>
+      <endBarDistance>0.7</endBarDistance>
+      <repeatBarlineDotSeparation>0.7</repeatBarlineDotSeparation>
+      <bracketWidth>0.44</bracketWidth>
       <clefLeftMargin>0.64</clefLeftMargin>
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
+      <stemWidth>0.11</stemWidth>
       <barNoteDistance>1.2</barNoteDistance>
+      <staffLineWidth>0.11</staffLineWidth>
+      <ledgerLineLength>0.35</ledgerLineLength>
+      <hairpinWidth>0.12</hairpinWidth>
+      <hairpinFontFace>Edwin</hairpinFontFace>
+      <hairpinFontSize>10</hairpinFontSize>
+      <pedalLineWidth>0.11</pedalLineWidth>
+      <pedalFontFace>Edwin</pedalFontFace>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <harmonyPlay>0</harmonyPlay>
+      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
+      <chordSymbolAFontSize>11</chordSymbolAFontSize>
+      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
+      <chordSymbolBFontSize>11</chordSymbolBFontSize>
+      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <automaticCapitalization>0</automaticCapitalization>
+      <slurMidWidth>0.21</slurMidWidth>
+      <musicalSymbolFont>Leland</musicalSymbolFont>
+      <musicalTextFont>Leland Text</musicalTextFont>
+      <voltaLineWidth>0.11</voltaLineWidth>
+      <ottavaLineWidth>0.11</ottavaLineWidth>
+      <ottavaFontFace>Edwin</ottavaFontFace>
+      <tupletFontFace>Edwin</tupletFontFace>
+      <tupletFontSize>9</tupletFontSize>
+      <defaultFontFace>Edwin</defaultFontFace>
       <defaultFramePadding>0.5</defaultFramePadding>
       <defaultFrameWidth>0.2</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
+      <titleFontFace>Edwin</titleFontFace>
+      <titleFontSize>22</titleFontSize>
       <titleFramePadding>0.5</titleFramePadding>
       <titleFrameWidth>0.2</titleFrameWidth>
       <titleFrameRound>25</titleFrameRound>
-      <subTitleFontSize>10</subTitleFontSize>
+      <subTitleFontFace>Edwin</subTitleFontFace>
+      <subTitleFontSize>16</subTitleFontSize>
       <subTitleFramePadding>0</subTitleFramePadding>
       <subTitleFrameWidth>0</subTitleFrameWidth>
       <subTitleFrameRound>25</subTitleFrameRound>
+      <composerFontFace>Edwin</composerFontFace>
+      <composerFontSize>10</composerFontSize>
       <composerFramePadding>0.5</composerFramePadding>
       <composerFrameWidth>0.2</composerFrameWidth>
       <composerFrameRound>25</composerFrameRound>
+      <lyricistFontFace>Edwin</lyricistFontFace>
+      <lyricistFontSize>10</lyricistFontSize>
       <lyricistFramePadding>0.5</lyricistFramePadding>
       <lyricistFrameWidth>0.2</lyricistFrameWidth>
       <lyricistFrameRound>25</lyricistFrameRound>
+      <fingeringFontFace>Edwin</fingeringFontFace>
       <fingeringFramePadding>0.5</fingeringFramePadding>
       <fingeringFrameWidth>0.2</fingeringFrameWidth>
       <fingeringFrameRound>25</fingeringFrameRound>
+      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
       <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
       <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
       <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
+      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
       <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
       <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
       <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+      <stringNumberFontFace>Edwin</stringNumberFontFace>
+      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
+      <longInstrumentFontSize>10</longInstrumentFontSize>
+      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
+      <shortInstrumentFontSize>10</shortInstrumentFontSize>
+      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
+      <partInstrumentFontSize>14</partInstrumentFontSize>
       <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
       <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
       <partInstrumentFrameRound>25</partInstrumentFrameRound>
+      <dynamicsFontFace>Edwin</dynamicsFontFace>
+      <dynamicsFontSize>11</dynamicsFontSize>
+      <expressionFontFace>Edwin</expressionFontFace>
       <expressionFontSize>10</expressionFontSize>
       <expressionFramePadding>0</expressionFramePadding>
       <expressionFrameWidth>0</expressionFrameWidth>
+      <tempoFontFace>Edwin</tempoFontFace>
       <tempoFramePadding>0.5</tempoFramePadding>
       <tempoFrameWidth>0.2</tempoFrameWidth>
       <tempoFrameRound>25</tempoFrameRound>
+      <metronomeFontFace>Edwin</metronomeFontFace>
+      <metronomeFontStyle>0</metronomeFontStyle>
+      <measureNumberFontFace>Edwin</measureNumberFontFace>
+      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
+      <measureNumberFontStyle>2</measureNumberFontStyle>
+      <translatorFontFace>Edwin</translatorFontFace>
+      <translatorFontSize>10</translatorFontSize>
+      <systemFontFace>Edwin</systemFontFace>
       <systemFramePadding>0.5</systemFramePadding>
       <systemFrameWidth>0.2</systemFrameWidth>
       <systemFrameRound>25</systemFrameRound>
+      <staffFontFace>Edwin</staffFontFace>
       <staffAlign>left,top</staffAlign>
       <staffPosAbove x="0" y="-4"/>
       <staffFramePadding>0.5</staffFramePadding>
       <staffFrameWidth>0.2</staffFrameWidth>
       <staffFrameRound>25</staffFrameRound>
+      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
+      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
+      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
+      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
+      <repeatLeftFontSize>18</repeatLeftFontSize>
       <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
       <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
       <repeatLeftFrameRound>25</repeatLeftFrameRound>
+      <repeatRightFontFace>Edwin</repeatRightFontFace>
+      <repeatRightFontSize>11</repeatRightFontSize>
       <repeatRightFramePadding>0.5</repeatRightFramePadding>
       <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
       <repeatRightFrameRound>25</repeatRightFrameRound>
+      <frameFontFace>Edwin</frameFontFace>
+      <frameFontSize>10</frameFontSize>
+      <usePre_3_6_defaults>1</usePre_3_6_defaults>
+      <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
+      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Alexander Faschon</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="composed_end">1828</metaTag>
+    <metaTag name="composed_start">1827</metaTag>
     <metaTag name="composer">Franz Schubert</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-07-02</metaTag>
+    <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist">Wilhelm Müller</metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
+    <metaTag name="mscVersion">3.02</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
+    <metaTag name="reviewers">Johannes Hentschel</metaTag>
     <metaTag name="source">http://musescore.com/user/4887176/scores/4373031</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
@@ -106,7 +180,7 @@
           </StaffType>
         </Staff>
       <trackName>Oboe</trackName>
-      <Instrument>
+      <Instrument id="oboe">
         <longName>Singstimme</longName>
         <shortName>Sing.</shortName>
         <trackName>Oboe</trackName>
@@ -147,6 +221,10 @@
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Part>
@@ -164,7 +242,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Grand Piano</trackName>
-      <Instrument>
+      <Instrument id="grand-piano">
         <longName>Pianoforte</longName>
         <shortName>Pno.</shortName>
         <trackName>Grand Piano</trackName>
@@ -206,12 +284,17 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
       <VBox>
         <height>33</height>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Winterreise</text>
@@ -254,6 +337,7 @@
         <height>55</height>
         <topGap>0</topGap>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Frame</style>
           <size>18</size>
@@ -312,6 +396,7 @@ XXIV Der Leiermann</text>
         <height>27.9419</height>
         <topGap>0</topGap>
         <bottomGap>0</bottomGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <offset x="0" y="6.61527"/>
@@ -326,6 +411,7 @@ XXIV Der Leiermann</text>
       <VBox>
         <height>15</height>
         <topGap>0</topGap>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <offset x="4.66666" y="7.01528"/>
@@ -361,9 +447,6 @@ XXIV Der Leiermann</text>
             <offset x="-4.51625" y="-1.73333"/>
             <text><sym>metNoteQuarterUp</sym> = 90</text>
             </Tempo>
-          <Harmony>
-            <name>.f.V</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -372,55 +455,10 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>1.3</stretch>
-        <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/2</duration>
-            </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>1.3</stretch>
-        <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/2</duration>
-            </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>VI</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -430,89 +468,53 @@ XXIV Der Leiermann</text>
             <durationType>measure</durationType>
             <duration>2/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>V64(+2)/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv%2</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V65/III</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>III64</name>
-            </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Harmony>
-            <name>III(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>III</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V/V</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V\\</name>
-            </Harmony>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>1.3</stretch>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>1.3</stretch>
+        <voice>
           <Rest>
             <durationType>half</durationType>
             </Rest>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -529,9 +531,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -575,9 +574,6 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -594,9 +590,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -619,9 +612,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -646,9 +636,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -689,9 +676,6 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -708,9 +692,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i\\</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -729,9 +710,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>VI</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -742,9 +720,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V64(+2)/iv</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -766,9 +741,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -779,9 +751,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv%2</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -798,9 +767,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>III.V64</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -821,9 +787,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -831,9 +794,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -859,9 +819,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -877,9 +834,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -891,9 +845,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I64(94)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -905,9 +856,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -926,9 +874,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V65</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -945,9 +890,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -958,27 +900,9 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>I64(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>V65</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -994,9 +918,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>I(6)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1009,9 +930,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1019,9 +937,6 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -1034,9 +949,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1055,9 +967,6 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1074,9 +983,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>I\\</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1087,15 +993,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -1104,27 +1001,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>2/2</duration>
-            </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <stretch>1.3</stretch>
-        <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
@@ -1134,21 +1010,21 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i.V6</name>
-            </Harmony>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/2</duration>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <stretch>1.3</stretch>
+        <voice>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>iv6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1164,9 +1040,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V\\</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <appoggiatura/>
@@ -1200,9 +1073,6 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>iv6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1231,9 +1101,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <appoggiatura/>
@@ -1264,9 +1131,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>It6</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1285,9 +1149,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1312,9 +1173,6 @@ XXIV Der Leiermann</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>viio7/V</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1341,9 +1199,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V\\</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1394,9 +1249,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>III.V</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1412,9 +1264,6 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv6</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1436,9 +1285,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <acciaccatura/>
@@ -1472,9 +1318,6 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>It6</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -1493,9 +1336,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.4</stretch>
         <voice>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1519,9 +1359,6 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>viio7/V</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1553,9 +1390,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V\\</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1575,18 +1409,12 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>V(#6#4)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1606,9 +1434,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V65</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1619,9 +1444,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1634,9 +1456,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1654,9 +1473,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V+6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1675,9 +1491,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1699,18 +1512,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1770,9 +1571,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <appoggiatura/>
@@ -1791,9 +1589,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1806,9 +1601,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1827,9 +1619,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V+6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1849,9 +1638,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -1862,27 +1648,9 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>I64(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1898,9 +1666,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>#viio2/ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1939,9 +1704,6 @@ XXIV Der Leiermann</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>#viio43/ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1964,9 +1726,6 @@ XXIV Der Leiermann</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>#viio2/ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -1983,9 +1742,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>.bII.V(64)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2050,9 +1806,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2123,9 +1876,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -2137,10 +1887,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>i.Ger6</name>
-            <offset x="0" y="-5.20156"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2156,9 +1902,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2177,9 +1920,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv(7)</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -2194,9 +1934,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2204,9 +1941,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2218,9 +1952,6 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2237,9 +1968,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>#viio7/iv</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -2266,9 +1994,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>III.V43</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2279,9 +2004,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2294,9 +2016,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2314,9 +2033,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V+6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2335,9 +2051,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2359,18 +2072,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2430,9 +2131,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <appoggiatura/>
@@ -2451,9 +2149,6 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2466,9 +2161,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2487,9 +2179,6 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V+6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2509,9 +2198,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -2522,27 +2208,9 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>I64(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>I64</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2558,9 +2226,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>#viio2/ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -2599,9 +2264,6 @@ XXIV Der Leiermann</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>#viio43/ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2633,20 +2295,11 @@ XXIV Der Leiermann</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>#viio2/ii</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>.bII.V(64)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2711,9 +2364,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2784,9 +2434,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.5</stretch>
         <voice>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -2803,10 +2450,6 @@ XXIV Der Leiermann</text>
             <offset x="-0.0392149" y="-1.49019"/>
             <text>stark</text>
             </StaffText>
-          <Harmony>
-            <name>i.Ger6</name>
-            <offset x="0" y="-5.20156"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2822,9 +2465,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.5</stretch>
         <voice>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2836,9 +2476,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv(7)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2852,9 +2489,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -2862,9 +2496,6 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2880,15 +2511,6 @@ XXIV Der Leiermann</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2905,9 +2527,6 @@ XXIV Der Leiermann</text>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>i\\</name>
-            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -2938,12 +2557,6 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <name>VI</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -2953,68 +2566,23 @@ XXIV Der Leiermann</text>
             <durationType>measure</durationType>
             <duration>2/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>V64(+2)/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <name>iv%2</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>V65/III</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <name>III64</name>
-            </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
-          <Harmony>
-            <name>III(94)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <name>III</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <stretch>1.3</stretch>
         <voice>
-          <Harmony>
-            <name>iv</name>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -3029,9 +2597,6 @@ XXIV Der Leiermann</text>
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
-          <Harmony>
-            <name>i\\</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
@@ -6677,9 +6242,6 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -6705,9 +6267,6 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -6733,9 +6292,6 @@ XXIV Der Leiermann</text>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Harmony>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -6758,9 +6314,6 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7151,6 +6704,10 @@ XXIV Der Leiermann</text>
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>f.V</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -7158,6 +6715,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7174,6 +6735,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7188,6 +6753,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7208,6 +6777,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7222,6 +6795,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7250,6 +6827,10 @@ XXIV Der Leiermann</text>
             <velocity>96</velocity>
             <offset x="0.446788" y="2.23529"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -7295,6 +6876,10 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64(+2)/iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7302,6 +6887,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7309,6 +6898,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv%2</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -7327,6 +6920,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/III</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7337,6 +6934,10 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III64</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -7347,6 +6948,10 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III(94)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7357,10 +6962,21 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7401,6 +7017,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7418,6 +7038,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V\\</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -7430,6 +7054,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7441,6 +7069,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7454,6 +7086,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7465,6 +7101,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7485,6 +7125,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7499,6 +7143,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7515,6 +7163,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7529,6 +7181,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7569,6 +7225,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7576,6 +7236,10 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64(+2)/iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7583,6 +7247,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7590,6 +7258,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv%2</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7605,6 +7277,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III.V64</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7615,6 +7291,10 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -7625,40 +7305,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>56</pitch>
-              <tpc>10</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>half</durationType>
-            <Articulation>
-              <subtype>articAccentAbove</subtype>
-              </Articulation>
-            <Note>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
-              </Note>
-            </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7673,6 +7333,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7683,6 +7347,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64(94)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -7693,6 +7361,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7707,6 +7389,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7717,6 +7403,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64(94)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -7727,6 +7417,86 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(6)</name>
+            </Harmony>
+          <Chord>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>56</pitch>
+              <tpc>10</tpc>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
+          <Chord>
+            <durationType>half</durationType>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              </Articulation>
+            <Note>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7741,6 +7511,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7751,6 +7525,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -7779,6 +7557,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7793,6 +7575,10 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -7821,6 +7607,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7879,6 +7669,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.V6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7912,6 +7706,10 @@ XXIV Der Leiermann</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7922,6 +7720,10 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7936,6 +7738,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7959,6 +7765,10 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -7966,6 +7776,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7979,6 +7793,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -7997,6 +7815,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8011,6 +7833,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio7/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8039,6 +7865,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8084,6 +7914,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III.V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -8109,6 +7943,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8126,6 +7964,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8136,6 +7978,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8160,6 +8006,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8174,6 +8024,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio7/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8201,6 +8055,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8229,6 +8087,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8246,6 +8108,10 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(#6#4)</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -8253,6 +8119,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8260,6 +8130,10 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8271,6 +8145,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V+6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8292,6 +8180,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8307,6 +8199,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64(94)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8318,6 +8214,16 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8339,6 +8245,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8354,6 +8264,10 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8365,6 +8279,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V+6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8386,6 +8314,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8401,6 +8333,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64(94)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8412,6 +8348,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -8446,6 +8396,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio2/ii</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8469,6 +8423,10 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio43/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -8496,6 +8454,10 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio2/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -8510,6 +8472,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII.V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8544,6 +8510,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8584,6 +8554,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8610,6 +8584,11 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.Ger6</name>
+            <offset x="0" y="-5.20156"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8624,6 +8603,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8631,6 +8614,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv(7)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8638,6 +8625,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8645,6 +8636,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8652,6 +8647,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8669,6 +8668,10 @@ XXIV Der Leiermann</text>
             <placement>above</placement>
             <offset x="0.775928" y="-1.29411"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio7/iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8710,6 +8713,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III.V43</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8725,6 +8732,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8735,6 +8746,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V+6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8756,6 +8781,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8771,6 +8800,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64(94)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8781,6 +8814,16 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8802,6 +8845,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8817,6 +8864,10 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8827,6 +8878,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V+6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8848,6 +8913,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -8863,6 +8932,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64(94)</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -8873,6 +8946,20 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I64</name>
+            </Harmony>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -8907,6 +8994,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio2/ii</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -8927,6 +9018,10 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio43/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -8954,6 +9049,10 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio2/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -8968,6 +9067,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII.V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9008,6 +9111,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9048,6 +9155,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9080,6 +9191,11 @@ XXIV Der Leiermann</text>
             <placement>above</placement>
             <offset x="0.321055" y="-0.947079"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.Ger6</name>
+            <offset x="0" y="-5.20156"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9094,6 +9210,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9101,6 +9221,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv(7)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9108,6 +9232,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9115,6 +9243,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9122,6 +9254,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9137,6 +9273,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i\\</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9154,6 +9294,10 @@ XXIV Der Leiermann</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9172,6 +9316,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9193,6 +9341,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9204,6 +9356,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -9221,6 +9377,10 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9245,6 +9405,10 @@ XXIV Der Leiermann</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64(+2)/iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -9269,6 +9433,10 @@ XXIV Der Leiermann</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9279,6 +9447,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv%2</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -9300,6 +9472,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/III</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9310,6 +9486,10 @@ XXIV Der Leiermann</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III64</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
@@ -9320,6 +9500,10 @@ XXIV Der Leiermann</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III(94)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9330,10 +9514,21 @@ XXIV Der Leiermann</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9364,6 +9559,10 @@ XXIV Der Leiermann</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -9392,6 +9591,10 @@ XXIV Der Leiermann</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i\\</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Note>
