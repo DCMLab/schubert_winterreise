@@ -1,25 +1,25 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	lyricist	musescore	source	workTitle	composed_start	composed_end	annotator	reviewer
-MS3/n01.mscx	n01	.mscx	2f536ca250b24b1c094e13c629acf13c	216	-1, 2, -1	2/4	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise	1827	1828	Alexander Faschon	Johannes Hentschel
-MS3/n02.mscx	n02	.mscx	59785b9de3b19f52375dd359f70a034f	70		6/8	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise	1827	1828	Alexander Faschon	Johannes Hentschel
-MS3/n03.mscx	n03	.mscx	08c8ee34b9674f4b640f711f2de9148b	141	-4	2/2	Franz Schubert	Wilhelm Müller	3.4.2	http://musescore.com/user/4887176/scores/4373031	Winterreise	1827	1828	Alexander Faschon	Johannes Hentschel
-MS3/n04.mscx	n04	.mscx	14d45afdb4e789e726c7eea75a9f3006	188	-3	4/4			3.4.2			1827	1828	Alexander Faschon	Johannes Hentschel
-MS3/n05.mscx	n05	.mscx	2f7e34406eef5219d7b956d7978dd219	245	4	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n06.mscx	n06	.mscx	bef4edc1d5cbc9f6107ceefda842693d	44	3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n07.mscx	n07	.mscx	76febfc370a2e3d28075235d98a79322	176	1, 4, 1	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n08.mscx	n08	.mscx	40a8907966d956cd8f30fe9a2c5c1726	353	-2, 1, -2, 1	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n09.mscx	n09	.mscx	6fd23cf8dc04f4a5560ee404ea197864	72	2	3/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n10.mscx	n10	.mscx	b76f17b3cb32946e6fec34c7608376f8	105	-3	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n11.mscx	n11	.mscx	8c877a4b91b8f980f665488e5bb7c75a	168	3	6/8, 2/4, 6/8, 2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n12.mscx	n12	.mscx	428b0322124b285a3075bdc3a4509bbe	82	2	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n13.mscx	n13	.mscx	43fd90623566c7ced627923b9cb296dc	111	-3	6/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n14.mscx	n14	.mscx	59a8e45724ca2f01720c835799a3507d	57	-3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n15.mscx	n15	.mscx	04f3f2473547da7f4c4c8ca033d1ee65	169	-3	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n16.mscx	n16	.mscx	c548335f129920ffcfb329a79d3be05f	101	-3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n17.mscx	n17	.mscx	35b0cb20915ee9f46dee73dcfe484145	112	2	12/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n18.mscx	n18	.mscx	17f7e3fd6345690144b457edd9255e77	61	-1	4/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n19.mscx	n19	.mscx	6d729ecbd9f0a2bb3c96757211ece7c2	66	3	6/8			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n20.mscx	n20	.mscx	7c15b02ba5d2e7a44e1c7322b6813b9b	167	-2, 1, -2	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n21.mscx	n21	.mscx	b5ed94cc2a969516e3b6396d15f46a75	153	-1	4/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n22.mscx	n22	.mscx	9fc46137ddbee05304ba3c7879ddbe9a	80	3, 0	2/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n23.mscx	n23	.mscx	a96475a4bc07c77b8f9afd9ff4d6348e	87	3	3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
-MS3/n24.mscx	n24	.mscx	766dfe7f1767d053f7f4032beecbf509	79		3/4			3.4.2			1827	1828	Alexander Faschon	Adrian Nagel
+rel_paths	fnames	last_mc	last_mn	KeySig	TimeSig	label_count	harmony_version	annotated_key	annotators	reviewers	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	mscVersion	platform	source	translator	musescore	ambitus	composed_end	composed_start	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument	staff_3_ambitus	staff_3_instrument
+MS3	n01	105	105	1: -1, 71: 2, 99: -1	1: 2/4	215	2.1.0	d	Alexander Faschon	Johannes Hentschel	Franz Schubert	Winterreise					Wilhelm Müller			2017-07-02	3.02	Apple Macintosh	http://musescore.com/user/4887176/scores/4373031		3.6.2	38-83 (D2-B5)	1828	1827	57-78 (A3-F#5)	Oboe	53-83 (F3-B5)	Grand Piano	38-66 (D2-F#4)	Grand Piano
+MS3	n02	52	51	1: 0	1: 6/8	70	2.1.0	a	Alexander Faschon	Johannes Hentschel	Franz Schubert	Winterreise					Wilhelm Müller			2017-07-02	3.02	Apple Macintosh	http://musescore.com/user/4887176/scores/4373031		3.6.2	40-93 (E2-A6)	1828	1827	64-79 (E4-G5)	Oboe	50-93 (D3-A6)	Grand Piano	40-69 (E2-A4)	Grand Piano
+MS3	n03	56	55	1: -4	1: 2/2	141	2.1.0	f	Alexander Faschon	Johannes Hentschel	Franz Schubert	Winterreise					Wilhelm Müller			2017-07-02	3.02	Apple Macintosh	http://musescore.com/user/4887176/scores/4373031		3.6.2	35-79 (B1-G5)	1828	1827	60-79 (C4-G5)	Oboe	48-75 (C3-Eb5)	Grand Piano	35-61 (B1-Db4)	Grand Piano
+MS3	n04	109	109	1: -3	1: 4/4	188	2.1.0	c	Alexander Faschon	Johannes Hentschel										2018-12-16	3.02	Microsoft Windows			3.6.2	31-84 (G1-C6)	1828	1827	65-80 (F4-Ab5)	Oboe	47-84 (B2-C6)	Klavier	31-62 (G1-D4)	Klavier
+MS3	n05	83	83	1: 4	1: 3/4	245	2.1.0	E	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	35-80 (B1-G#5)	1828	1827	59-76 (B3-E5)	Oboe	47-80 (B2-G#5)	Klavier	35-68 (B1-G#4)	Klavier
+MS3	n06	32	32	1: 3	1: 3/4	44	2.1.0	f#	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	45-81 (A2-A5)	1828	1827	61-81 (C#4-A5)	Oboe	57-78 (A3-F#5)	Klavier	45-64 (A2-E4)	Klavier
+MS3	n07	74	74	1: 1, 22: 4, 41: 1	1: 2/4	176	2.1.0	e	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	30-81 (F#1-A5)	1828	1827	58-81 (A#3-A5)	Oboe	52-73 (E3-C#5)	Klavier	30-60 (F#1-C4)	Klavier
+MS3	n08	69	69	1: -2, 28: 1, 49: -2, 59: 1	1: 3/4	353	2.1.0	g	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	31-81 (G1-A5)	1828	1827	62-79 (D4-G5)	Oboe	54-81 (F#3-A5)	Piano	31-66 (G1-F#4)	Piano
+MS3	n09	43	43	1: 2	1: 3/8	72	2.1.0	b	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	42-86 (F#2-D6)	1828	1827	59-79 (B3-G5)	Oboe	58-86 (A#3-D6)	Klavier	42-83 (F#2-B5)	Klavier
+MS3	n10	67	67	1: -3	1: 2/4	105	2.1.0	c	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	36-84 (C2-C6)	1828	1827	59-79 (B3-G5)	Oboe	51-84 (Eb3-C6)	Klavier	36-56 (C2-Ab3)	Klavier
+MS3	n11	89	88	1: 3	1: 6/8, 28: 2/4, 45: 6/8, 72: 2/4	168	2.1.0	A	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	33-88 (A1-E6)	1828	1827	64-78 (E4-F#5)	Oboe	56-88 (G#3-E6)	Klavier	33-73 (A1-C#5)	Klavier
+MS3	n12	48	48	1: 2	1: 2/4	82	2.1.0	b	Alexander Faschon	Adrian Nagel										2018-12-16	3.02	Microsoft Windows			3.6.2	30-78 (F#1-F#5)	1828	1827	61-78 (C#4-F#5)	Oboe	47-77 (B2-F5)	Klavier	30-65 (F#1-F4)	Klavier
+MS3	n13	94	94	1: -3	1: 6/8	111	2.1.0	Eb	Alexander Faschon	Adrian Nagel										2018-12-17	3.02	Microsoft Windows			3.6.2	37-82 (Db2-Bb5)	1828	1827	63-80 (Eb4-Ab5)	Oboe	56-82 (Ab3-Bb5)	Klavier	37-63 (Db2-Eb4)	Klavier
+MS3	n14	45	44	1: -3	1: 3/4	57	2.1.0	c	Alexander Faschon	Adrian Nagel										2018-12-17	3.02	Microsoft Windows			3.6.2	31-80 (G1-Ab5)	1828	1827	60-77 (C4-F5)	Oboe	47-80 (B2-Ab5)	Klavier	31-60 (G1-C4)	Klavier
+MS3	n15	43	43	1: -3	1: 2/4	169	2.1.0	c	Alexander Faschon	Adrian Nagel										2018-12-17	3.02	Microsoft Windows			3.6.2	36-91 (C2-G6)	1828	1827	60-79 (C4-G5)	Oboe	59-91 (B3-G6)	Klavier	36-72 (C2-C5)	Klavier
+MS3	n16	48	47	1: -3	1: 3/4	101	2.1.0	Eb	Alexander Faschon	Adrian Nagel										2018-12-17	3.02	Microsoft Windows			3.6.2	31-83 (G1-Cb6)	1828	1827	58-79 (Bb3-G5)	Oboe	44-83 (Ab2-Cb6)	Klavier	31-68 (G1-Ab4)	Klavier
+MS3	n17	49	49	1: 2	1: 12/8	112	2.1.0	D	Alexander Faschon	Adrian Nagel										2018-12-17	3.02	Microsoft Windows			3.6.2	33-84 (A1-C6)	1828	1827	62-76 (D4-E5)	Oboe	53-84 (F3-C6)	Klavier	33-62 (A1-D4)	Klavier
+MS3	n18	19	19	1: -1	1: 4/4	61	2.1.0	d	Alexander Faschon	Adrian Nagel										2018-12-17	3.02	Microsoft Windows			3.6.2	29-86 (F1-D6)	1828	1827	61-76 (C#4-E5)	Oboe	50-86 (D3-D6)	Klavier	29-68 (F1-G#4)	Klavier
+MS3	n19	44	43	1: 3	1: 6/8	66	2.1.0	A	Alexander Faschon	Adrian Nagel										2018-12-20	3.02	Microsoft Windows			3.6.2	40-88 (E2-E6)	1828	1827	63-76 (D#4-E5)	Oboe	64-88 (E4-E6)	Klavier	40-64 (E2-E4)	Klavier
+MS3	n20	84	83	1: -2, 23: 1, 42: -2	1: 2/4	167	2.1.0	g	Alexander Faschon	Adrian Nagel										2018-12-20	3.02	Microsoft Windows			3.6.2	31-79 (G1-G5)	1828	1827	66-79 (F#4-G5)	Oboe	54-76 (F#3-E5)	Klavier	31-64 (G1-E4)	Klavier
+MS3	n21	32	32	1: -1	1: 4/4	153	2.1.0	F	Alexander Faschon	Adrian Nagel										2018-12-20	3.02	Microsoft Windows			3.6.2	36-82 (C2-Bb5)	1828	1827	64-77 (E4-F5)	Oboe	52-82 (E3-Bb5)	Klavier	36-66 (C2-F#4)	Klavier
+MS3	n22	46	46	1: 0, 15: 3, 43: 0	1: 2/4	80	2.1.0	a	Alexander Faschon	Adrian Nagel										2018-12-20	3.02	Microsoft Windows			3.6.2	40-88 (E2-E6)	1828	1827	60-81 (C4-A5)	Oboe	57-88 (A3-E6)	Klavier	40-65 (E2-F4)	Klavier
+MS3	n23	33	32	1: 3	1: 3/4	87	2.1.0	A	Alexander Faschon	Adrian Nagel										2018-12-20	3.02	Microsoft Windows			3.6.2	35-77 (B1-F5)	1828	1827	69-77 (A4-F5)	Oboe	50-65 (D3-F4)	Klavier	35-52 (B1-E3)	Klavier
+MS3	n24	61	61	1: 0	1: 3/4	79	2.1.0	a	Alexander Faschon	Adrian Nagel										2018-12-20	3.02	Microsoft Windows			3.6.2	45-81 (A2-A5)	1828	1827	64-77 (E4-F5)	Oboe	59-81 (B3-A5)	Klavier	45-60 (A2-C4)	Klavier
