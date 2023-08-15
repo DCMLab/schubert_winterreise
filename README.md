@@ -1,6 +1,6 @@
 
 
-# Overview
+## Overview
 |file_name|measures|labels|standard|   annotators    |    reviewers     |
 |---------|-------:|-----:|--------|-----------------|------------------|
 |n01      |     105|   215|2.1.0   |Alexander Faschon|Johannes Hentschel|
@@ -29,4 +29,4 @@
 |n24      |      61|    79|2.1.0   |Alexander Faschon|Adrian Nagel      |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.2.4.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
