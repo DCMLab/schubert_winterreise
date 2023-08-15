@@ -1,6 +1,85 @@
-KORREKTUR WINTERREISE
+# KORREKTUR WINTERREISE (2019)
 
-N.05 Am Brunnen vor dem Tore
+Verbesserungsvorschläge:
+
+•	Harmonien immer ins oberste System (Pausen ggf. aufteilen und danach wieder zusammenfügen)
+•	Phrasenenden konsequent annotieren
+•	Immer konsistent annotieren (dieselbe Musik kann nicht verschieden annotiert werden)
+•	Wenn mehrere aufeinanderfolgende Labels mit / auf eine andere Stufe bezogen werden, besser die lokale Tonart ändern, v.a. wenn eine Kadenz vorkommt
+•	Unisonopassagen immer harmonisch deuten, wo möglich, sonst @none benutzen
+•	Bei mehreren Möglichkeiten immer zur Standardvariante tendieren (z.B. V43 statt V64; oder V(64) statt V(6) oder I64). Wenn keine Entscheidung möglich, beide Möglichkeiten notieren als V43-V64 bzw. V(64)-I64
+•	Keine Doppelpunkte benutzen
+•	Keine Fragezeichen benutzen, da jedes Fragezeichen korrigiert werden muss. Stattdessen für eine Variante entscheiden und dann die Frage in einer E-Mail formulieren.
+•	Label nicht wiederholen (in Ausnahmefällen kann am Phrasenende das Label wiederholt werden, um das Phrasenende zu markieren) 
+
+## Nr. 1
+
+1-4 + 33-36 + 65-68: Orgelpunkt
+5 + 37 + 69: V(64) statt i64
+7: Phrasenende
+18 + 50 + 84: V43 statt V64
+19: Phrasenende
+19.2 + 51.2: viio6(+2) statt V7(4)
+21.2: IV6 statt IV
+22-23 + 54-55: B-Dur
+24: Punkt statt Doppelpunkt
+24-25 + 56-57: Labels ins obere System
+27.2f. + 59.2 + 63.2 + 91.2: V(64)
+31: angleichen an 27
+33-38: Labels ins obere System
+42+64: direkt V(64), weil V(6) mit Leitton übermäßig wäre
+48: Angleichen an T. 16 (vi statt ii/V)
+49.2: I6
+50: Fragezeichen entfernt
+52.2: V43 statt V65
+70: V(64), wie an vorigen Parallelstellen
+71: Phrasenende
+73.2 + 77.2: #viio2/iii
+79: Fragezeichen entfernt
+79.2: V65 statt V64
+82-4: Tonarten
+97 + 99-104: Label ins obere System
+
+## Nr. 2
+
+0: .a.i statt a:i
+0-5: Labels ins obere System, i nicht wiederholen
+7-8 + 26-27: harmonisch deuten!
+11-14: lokale Tonarten
+17-18: #viio statt viio
+19-22: in d-Moll
+20: Fragezeichen entfernt
+22 + 33: Label ins obere System
+35: #viio2 statt iv6
+35.2: i
+36-38: analog
+40f: analog
+41-43: als Sequenz
+44: analog
+
+## Nr. 3
+1-7: Labels ins obere System
+4: Label nicht wiederholen
+4.2: V64(+2)/iv statt VI+2 (falsche Syntax)
+6: harmonisch deuten
+7 + 11: Phrasenende
+13.4: V6/III
+13-15: 64 statt 46
+13-20: lokale Tonart ändern
+15 + 17-20: Labels ins obere System
+20-21: harmonisch deuten
+21: It6 auf 3 statt V43/V auf 4
+24: Phrasenende
+25ff: analog (lokale Tonart!)
+31 + 33: Analog zu 14
+32: analog zu 30
+34: Harmonie fehlt
+37.4: Ger6
+39-44: fehlten
+
+
+## N.05 Am Brunnen vor dem Tore
+
 1	I -> I[I V I V7 I]
 3	I -> I[I V I V7 I]
 4	V -> V vi-IV6 V IV(2) I64 #viio7/vi
@@ -55,7 +134,8 @@ N.05 Am Brunnen vor dem Tore
 81	iio64 -> #viio7/vi, V(64) -> I6
 
 
-N.06 Wasserflut
+## N.06 Wasserflut
+
 3	V65 -> V7
 7	V -> V V7
 11	V6(64) V65 -> V(64) V7
@@ -67,7 +147,8 @@ N.06 Wasserflut
 30	i fehlt
 
 
-N.07 Auf dem Flusse
+## N.07 Auf dem Flusse
+
 Trotz Nachschläge im Klavier, Harmoniesymbole immer auf den schweren Schlag
 1	i -> i i2
 3	V2(94) -> ii%65
@@ -115,7 +196,8 @@ Trotz Nachschläge im Klavier, Harmoniesymbole immer auf den schweren Schlag
 70	Phrasenende detailliert -> i[i\\ etc.
 
 
-N.08 Rückblick
+## N.08 Rückblick
+
 1/3	V2(#7) -> V(#7)
 5	v6(4) V6(4) -> i2 i(#7)
 6/8	kein \\
@@ -184,7 +266,8 @@ N.08 Rückblick
 69	I\\ -> I]
 
 
-N.09 Irrlicht
+## N.09 Irrlicht
+
 1	auf 2 -> V
 2	auf 2 -> i
 5	i nicht doppelt
@@ -202,7 +285,8 @@ N.09 Irrlicht
 40	auf 2 -> V
 
 
-N.10 Rast
+## N.10 Rast
+
 2	V7/iv -> V/iv V7/iv
 5	auf 2.5 -> i
 6	V\\
@@ -234,7 +318,8 @@ N.10 Rast
 65	s. T.5
 
 
-N.11 Frühlingstraum
+## N.11 Frühlingstraum
+
 0	Auftakt -> .A.V
 3	V2 -> V7
 4	Auftakt -> V
@@ -279,7 +364,8 @@ N.11 Frühlingstraum
 75ff	s. T.31ff
 
 
-N.12 Einsamkeit
+## N.12 Einsamkeit
+
 1	Orgelpunkt h
 2	i nicht doppelt
 3	iv64 -> #viio2
@@ -312,7 +398,8 @@ N.12 Einsamkeit
 39ff	s T25ff
 
 
-N.13 Die Post
+## N.13 Die Post
+
 1	Orgelpunktbeginn schon hier
 7	I[V7 -> V2
 8	V7 -> V2
@@ -337,7 +424,8 @@ N.13 Die Post
 47ff	s T2ff (bis Ende)
 
 
-N.14 Der greise Kopf
+## N.14 Der greise Kopf
+
 0	.c.i[i von 1 auf 0
 2	V7 -> V2
 3	V7(9) -> #viio65
@@ -368,7 +456,8 @@ N.14 Der greise Kopf
 43	i[V7(9) -> #viio65
 
 
-N.15 Die Krähe
+## N.15 Die Krähe
+
 1	I6 -> V6/iv
 2	ii% i6 -> ii%7 i6 i
 3	V64 -> V6
@@ -415,7 +504,8 @@ N.15 Die Krähe
 	V43 -> ii%7
 
 
-N.16 Letzte Hoffnung
+## N.16 Letzte Hoffnung
+
 1	in T0: .Eb.viio -> .Eb.viio7
 2	viio/V -> viio7/V
 	von T3 in T2 auf 3.5: viio7
@@ -456,7 +546,8 @@ N.16 Letzte Hoffnung
 46	V7/IV IV64(94) IV64 iv64 -> V65/IV IV(94) IV iv
 
 
-N.17 Im Dorfe
+## N.17 Im Dorfe
+
 3	iv(6) iv6(6) -> ii%65 ii%43
 9f	s T3
 15	I64 -> I64(11) I64\\
@@ -481,7 +572,8 @@ N.17 Im Dorfe
 47	auf 10: I6
 
 
-N.18 Der stürmische Morgen
+## N.18 Der stürmische Morgen
+
 1	.d.i -> .d.i V64 #viio/iv iv
 2	viio43/V -> viio7/V viio65/V
 3	auf 1.5: VI
@@ -504,7 +596,8 @@ N.18 Der stürmische Morgen
 	s T8
 
 
-N.19 Täuschung
+## N.19 Täuschung
+
 3	V43/vi V2/vi
 10	auf 4: vi6
 11	V -> V7 (Klavier klingt)
@@ -521,7 +614,8 @@ N.19 Täuschung
 38	s T10
 
 
-N.20 Der Wegweiser
+## N.20 Der Wegweiser
+
 0	.g.i6
 1	.g.i -> i
 2	auf 2.5: iv
@@ -562,7 +656,8 @@ N.20 Der Wegweiser
 81	als Anhang -> i[i\\ ... i]
 
 
-N.21 Das Wirtshaus
+## N.21 Das Wirtshaus
+
 1	als Orgelpunkt -> I(94) -> V2
 2	V(64) schon auf 2
 3	als Orgelpunkt
@@ -606,7 +701,8 @@ N.21 Das Wirtshaus
 29f	s T10f
 
 
-N.22 Mut
+## N.22 Mut
+
 3	auf 1.5: i6 V(4)
 8	V(6)/V -> V(64)/V
 10	V(6)/V V/V V7/V -> V(64)/V V7/V
@@ -622,7 +718,8 @@ N.22 Mut
 45	s T3
 
 
-N.23 Die Nebensonnen
+## N.23 Die Nebensonnen
+
 0	.A.V
 1	.A.I -> I
 4	I nicht doppelt
@@ -638,7 +735,8 @@ N.23 Die Nebensonnen
 28	auf 1.75: V65/vi
 
 
-N.24 Der Leiermann
+## N.24 Der Leiermann
+
 3	auf 3: V
 4	i
 10	V auf 2
