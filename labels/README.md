@@ -15,7 +15,8 @@ involved a few systematic syntax updates. These updates are documented in file c
 This version designates the first commit of this repository. It corresponds to a full review 
 involving several stages and actors. Mainly, nos. 01-04 were reviewed by Johannes Hentschel, and
 the other songs by Adrian Nagel. The review was performed using version 1.0.0 of the DCML 
-annotation as understood at that time (mid-2019).
+annotation as understood at that time (mid-2019). The updates during the review have been manually 
+tracked and are now compiled in the file correction_log.md.
 
 The exact commit history can be inspected at this 
 DCML-internal link: 
