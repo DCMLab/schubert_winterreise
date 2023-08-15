@@ -25,3 +25,7 @@ onwards). Additional internal detail: Commit https://github.com/DCMLab/corpora/c
 corresponds to the review of nos. 5-24 that Adrian Nagel did here:
 https://github.com/DCMLab/new_annotations/commits/8f8452462d01c232f74c8af89512752fcf5f4509/adrian/Schubert_Winterreise
 
+For ease of inspection, the folder `labels/v0.2` comes with comparison scores that display the 
+changes applied to  the v0.1 labels in a diff-like manner (deleted labels in red, added labels in 
+green). They were created with ms3 v2.1.0 using the command 
+`ms3 compare --use labels --safe --all --suffix "_v0.1..v0.2"`.
