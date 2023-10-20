@@ -3,7 +3,7 @@
 ## Overview
 |file_name|measures|labels|standard|   annotators    |    reviewers     |
 |---------|-------:|-----:|--------|-----------------|------------------|
-|n01      |     105|   215|2.1.0   |Alexander Faschon|Johannes Hentschel|
+|n01      |     105|   214|2.1.0   |Alexander Faschon|Johannes Hentschel|
 |n02      |      51|    70|2.1.0   |Alexander Faschon|Johannes Hentschel|
 |n03      |      55|   141|2.1.0   |Alexander Faschon|Johannes Hentschel|
 |n04      |     109|   188|2.1.0   |Alexander Faschon|Johannes Hentschel|

@@ -148,7 +148,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -289,6 +288,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -306,25 +309,30 @@
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="58.2981" y="18.4412"/>
           <text>Ein Cyclus von Liedern von Wilhelm Müller.</text>
           </Text>
         <Text>
           <style>Frame</style>
           <size>14</size>
           <bold>1</bold>
+          <offset x="31.5285" y="26.9678"/>
           <text>Für eine Singstimme mit Begleitung des Pianoforte</text>
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="84.0761" y="39.0637"/>
           <text>componiert von</text>
           </Text>
         <Text>
           <style>Composer</style>
           <size>18</size>
+          <offset x="-64.6434" y="-6.54366"/>
           <text>FRANZ SCHUBERT</text>
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="82.8864" y="7.13854"/>
           <text>_______________</text>
           </Text>
         </VBox>
@@ -336,6 +344,7 @@
         <Text>
           <style>Frame</style>
           <size>18</size>
+          <offset x="48.9783" y="12.0959"/>
           <text>Inhalt</text>
           </Text>
         <Text>
@@ -344,6 +353,7 @@
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="83.2829" y="6.34537"/>
           <text>I Gute Nacht
 II Die Wetterfahne
 III Gefror'ne Thränen
@@ -359,10 +369,12 @@ XII Einsamkeit</text>
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="2.37951" y="59.4878"/>
           <text>Zweite Abtheilung</text>
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="91.8095" y="58.4964"/>
           <text>XIII Die Post
 XIV Der greise Kopf
 XV Die Krähe
@@ -378,6 +390,7 @@ XXIV Der Leiermann</text>
           </Text>
         <Text>
           <style>Frame</style>
+          <offset x="4.36244" y="24.9849"/>
           <text>Leipzig, Verlag von Breitkopf &amp; Härtel</text>
           </Text>
         </VBox>
@@ -387,10 +400,12 @@ XXIV Der Leiermann</text>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
+          <offset x="-1.98293" y="19.631"/>
           <text>Gute Nacht</text>
           </Text>
         <Text>
           <style>Instrument Name (Part)</style>
+          <offset x="67.8161" y="21.019"/>
           <text>I</text>
           </Text>
         </VBox>
@@ -3524,9 +3539,6 @@ XXIV Der Leiermann</text>
             <durationType>measure</durationType>
             <duration>2/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <BarLine>
             <subtype>double</subtype>
             </BarLine>
@@ -11938,7 +11950,7 @@ XXIV Der Leiermann</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(4)</name>
+            <name>#viio43(4)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11968,7 +11980,7 @@ XXIV Der Leiermann</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           </voice>
         </Measure>
@@ -11977,6 +11989,8 @@ XXIV Der Leiermann</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <minDistance>-1.63594</minDistance>
+            <offset x="0.449671" y="3.71406"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -12022,7 +12036,7 @@ XXIV Der Leiermann</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14227,7 +14241,7 @@ XXIV Der Leiermann</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(4)</name>
+            <name>#viio43(4)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14246,7 +14260,7 @@ XXIV Der Leiermann</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           </voice>
         </Measure>
@@ -14281,10 +14295,6 @@ XXIV Der Leiermann</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -14299,7 +14309,7 @@ XXIV Der Leiermann</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14320,6 +14330,7 @@ XXIV Der Leiermann</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i]</name>
+            <offset x="0.674507" y="4.07406"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -16291,7 +16302,7 @@ XXIV Der Leiermann</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(4)</name>
+            <name>#viio43(4)</name>
             <offset x="-0.149059" y="-4.13965"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -16327,7 +16338,8 @@ XXIV Der Leiermann</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
+            <offset x="-1.79869" y="6.93012"/>
             </Harmony>
           </voice>
         </Measure>
@@ -16336,6 +16348,7 @@ XXIV Der Leiermann</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <offset x="0.337254" y="3.71406"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -16381,8 +16394,9 @@ XXIV Der Leiermann</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
-            <offset x="0.149059" y="-3.99059"/>
+            <name>#viio43</name>
+            <minDistance>0.316761</minDistance>
+            <offset x="-1.53721" y="3.48676"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -17079,6 +17093,7 @@ XXIV Der Leiermann</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio2/iii</name>
+            <offset x="-2.81045" y="4.11967"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
