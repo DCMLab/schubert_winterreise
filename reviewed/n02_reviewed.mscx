@@ -148,7 +148,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -305,35 +304,35 @@
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="0.800061" y="26.0179"/>
+          <offset x="0.601768" y="19.4742"/>
           <text>Op. 89</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="32.2666" y="7.9486"/>
+          <offset x="57.6481" y="11.9145"/>
           <text>Ein Cyclus von Liedern von Wilhelm Müller.</text>
           </Text>
         <Text>
           <style>Frame</style>
           <size>14</size>
           <bold>1</bold>
-          <offset x="24.1333" y="12.2152"/>
+          <offset x="33.6514" y="27.2854"/>
           <text>Für eine Singstimme mit Begleitung des Pianoforte</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="47.7333" y="16.3486"/>
+          <offset x="84.0209" y="39.7471"/>
           <text>componiert von</text>
           </Text>
         <Text>
           <style>Composer</style>
           <size>18</size>
-          <offset x="-36.9333" y="-7.60004"/>
+          <offset x="-62.9096" y="-7.60004"/>
           <text>FRANZ SCHUBERT</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="45.4666" y="27.8153"/>
+          <offset x="80.961" y="7.39115"/>
           <text>_______________</text>
           </Text>
         </VBox>
@@ -345,17 +344,17 @@
         <Text>
           <style>Frame</style>
           <size>18</size>
-          <offset x="48.3999" y="2.21528"/>
+          <offset x="95.197" y="1.81869"/>
           <text>Inhalt</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="27.0667" y="10.3486"/>
+          <offset x="26.6701" y="13.9179"/>
           <text>Erste Abtheilung</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="27.0666" y="15.5485"/>
+          <offset x="27.2649" y="24.0751"/>
           <text>I Gute Nacht
 II Die Wetterfahne
 III Gefror'ne Thränen
@@ -371,12 +370,12 @@ XII Einsamkeit</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="58.6667" y="10.3486"/>
+          <offset x="122.914" y="13.1247"/>
           <text>Zweite Abtheilung</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="58.1333" y="15.4153"/>
+          <offset x="122.578" y="23.1487"/>
           <text>XIII Die Post
 XIV Der greise Kopf
 XV Die Krähe
@@ -392,24 +391,8 @@ XXIV Der Leiermann</text>
           </Text>
         <Text>
           <style>Frame</style>
-          <offset x="33.3333" y="51.2819"/>
+          <offset x="2.39964" y="2.50189"/>
           <text>Leipzig, Verlag von Breitkopf &amp; Härtel</text>
-          </Text>
-        </VBox>
-      <VBox>
-        <height>16</height>
-        <topGap>0</topGap>
-        <bottomGap>0</bottomGap>
-        <boxAutoSize>0</boxAutoSize>
-        <Text>
-          <style>Title</style>
-          <offset x="0" y="6.61527"/>
-          <text>Gute Nacht</text>
-          </Text>
-        <Text>
-          <style>Instrument Name (Part)</style>
-          <offset x="51.7333" y="2.74862"/>
-          <text>I</text>
           </Text>
         </VBox>
       <VBox>
@@ -884,7 +867,6 @@ XXIV Der Leiermann</text>
               <text>schon</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -896,7 +878,6 @@ XXIV Der Leiermann</text>
               <text>in</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>74</pitch>
               <tpc>16</tpc>
               <velocity>64</velocity>
@@ -923,7 +904,6 @@ XXIV Der Leiermann</text>
               <text>nem</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>71</pitch>
               <tpc>19</tpc>
               <velocity>64</velocity>
@@ -3392,11 +3372,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.84602"/>
-                <off2 x="-12.0415" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3502,11 +3477,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.78604"/>
-                <off2 x="-10.5882" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3612,11 +3582,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.20588"/>
-                <off2 x="-9.06574" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -3725,6 +3690,13 @@ XXIV Der Leiermann</text>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>1</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -3732,13 +3704,6 @@ XXIV Der Leiermann</text>
                   <fractions>3/8</fractions>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>1</grace>
-                  </location>
-                </prev>
               </Spanner>
             <Articulation>
               <subtype>ornamentTrill</subtype>
@@ -3934,10 +3899,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-4.4" y="-0.266666"/>
-                  <o4 x="-0.0692042" y="0.553633"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4013,9 +3974,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0692042" y="0.553633"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4080,11 +4038,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.63149"/>
-                <off2 x="-19.0404" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4096,9 +4049,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0692042" y="0.553633"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4129,11 +4079,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.56228"/>
-                <off2 x="-4.77508" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4250,11 +4195,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="4.15225" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4296,9 +4236,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0692042" y="0.553633"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4397,7 +4334,6 @@ XXIV Der Leiermann</text>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>59</pitch>
               <tpc>19</tpc>
               </Note>
@@ -5191,11 +5127,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.5"/>
-                <off2 x="3.52941" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5539,11 +5470,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.83333"/>
-                <off2 x="-18.6274" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5595,11 +5521,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.91176"/>
-                <off2 x="-4.31372" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5766,11 +5687,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.89216"/>
-                <off2 x="-15.0588" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -5782,9 +5698,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.431372" y="-0.274508"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6151,11 +6064,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.36667"/>
-                <off2 x="-11.2941" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6167,10 +6075,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.117647" y="0.235294"/>
-                  <offset x="-0.313725" y="0.313725"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6262,10 +6166,6 @@ XXIV Der Leiermann</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.235294" y="-0.549019"/>
-                  <o3 x="-0.784313" y="-0.941176"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6359,10 +6259,6 @@ XXIV Der Leiermann</text>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="0.235294" y="-0.549019"/>
-                  <o3 x="-0.784313" y="-0.941176"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6624,11 +6520,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.0784313" y="0.862745"/>
-                  <o4 x="-0.117647" y="1.88235"/>
-                  <offset x="0.156863" y="-1.2549"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6954,11 +6845,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.53922"/>
-                <off2 x="-4.23529" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7173,11 +7059,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.32353"/>
-                <off2 x="20.3529" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7224,11 +7105,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.19019"/>
-                <off2 x="2.7451" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7344,11 +7220,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.3549"/>
-                <off2 x="2.90196" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7456,11 +7327,6 @@ XXIV Der Leiermann</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.12745"/>
-                <off2 x="4.47059" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7552,9 +7418,6 @@ XXIV Der Leiermann</text>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.41176" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7747,9 +7610,6 @@ XXIV Der Leiermann</text>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.41176" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7877,9 +7737,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.0784313" y="0.392157"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7968,9 +7825,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.0784313" y="0.392157"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8059,9 +7913,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.392157" y="-0.0876523"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8152,6 +8003,13 @@ XXIV Der Leiermann</text>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>1</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -8159,13 +8017,6 @@ XXIV Der Leiermann</text>
                   <fractions>3/8</fractions>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>1</grace>
-                  </location>
-                </prev>
               </Spanner>
             <Articulation>
               <subtype>ornamentTrill</subtype>
@@ -8345,9 +8196,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.0784313" y="-1.41176"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8442,9 +8290,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.138408" y="0.41523"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8514,9 +8359,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.138408" y="0.41523"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8660,9 +8502,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.138408" y="0.41523"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8752,7 +8591,7 @@ XXIV Der Leiermann</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ivo6</name>
+            <name>#viio43/i</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9469,9 +9308,6 @@ XXIV Der Leiermann</text>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="-0.666666" y="-2.53333"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10061,13 +9897,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.117647" y="1.05882"/>
-                  <o2 x="-0.588235" y="1.41176"/>
-                  <o3 x="0.117647" y="-0.588235"/>
-                  <o4 x="-0.117647" y="2"/>
-                  <offset x="0.117647" y="-1.29412"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10411,13 +10240,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.117647" y="3.0196"/>
-                  <o2 x="-1.68628" y="0.901953"/>
-                  <o3 x="-0.980389" y="-1.09804"/>
-                  <o4 x="0.117647" y="4"/>
-                  <offset x="-0.196078" y="-3.09804"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10848,9 +10670,6 @@ XXIV Der Leiermann</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.117647" y="-0.470591"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11649,9 +11468,6 @@ XXIV Der Leiermann</text>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.41176" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -11669,6 +11485,13 @@ XXIV Der Leiermann</text>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>1</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -11676,13 +11499,6 @@ XXIV Der Leiermann</text>
                   <fractions>3/8</fractions>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>1</grace>
-                  </location>
-                </prev>
               </Spanner>
             <Spanner type="Slur">
               <Slur>
@@ -11854,9 +11670,6 @@ XXIV Der Leiermann</text>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.41176" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
