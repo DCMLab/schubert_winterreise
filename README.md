@@ -6,7 +6,7 @@
 |n01      |     105|   214|2.1.0   |Alexander Faschon|Johannes Hentschel|
 |n02      |      51|    70|2.1.0   |Alexander Faschon|Johannes Hentschel|
 |n03      |      55|   141|2.1.0   |Alexander Faschon|Johannes Hentschel|
-|n04      |     109|   188|2.1.0   |Alexander Faschon|Johannes Hentschel|
+|n04      |     109|   187|2.1.0   |Alexander Faschon|Johannes Hentschel|
 |n05      |      83|   245|2.1.0   |Alexander Faschon|Adrian Nagel      |
 |n06      |      32|    44|2.1.0   |Alexander Faschon|Adrian Nagel      |
 |n07      |      74|   176|2.1.0   |Alexander Faschon|Adrian Nagel      |
