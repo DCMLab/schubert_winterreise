@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -211,6 +210,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -277,9 +277,21 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>V.
+Der Lindenbaum.</text>
+          </Text>
+        </VBox>
       <Measure>
         <stretch>1.1</stretch>
         <voice>
@@ -293,6 +305,7 @@
           <Tempo>
             <tempo>1.1666700000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-11.8425" y="-6.62439"/>
             <text><sym>metNoteQuarterUp</sym> = 70</text>
             </Tempo>
@@ -2178,7 +2191,6 @@
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -8816,7 +8828,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -8824,7 +8835,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -8832,7 +8842,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -9212,7 +9221,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -9220,7 +9228,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               </Note>
@@ -9228,7 +9235,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
@@ -18562,7 +18568,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -18757,7 +18763,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             <offset x="0" y="-3"/>
             </Harmony>
           <location>
