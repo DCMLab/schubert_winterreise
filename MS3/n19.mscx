@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -211,6 +210,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -277,9 +277,21 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>XIX.
+Taüschung.</text>
+          </Text>
+        </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
@@ -300,6 +312,7 @@
           <Tempo>
             <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="-24.1057" y="-7.1718"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
@@ -6160,7 +6173,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii[V(964)</name>
+            <name>V[V64(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6180,10 +6193,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -6195,6 +6204,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>

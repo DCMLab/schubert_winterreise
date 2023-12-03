@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -211,6 +210,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -277,9 +277,21 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>XVIII.
+Der stürmische Morgen.</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -293,7 +305,8 @@
           <Tempo>
             <tempo>1.3333299999999999</tempo>
             <followText>1</followText>
-            <offset x="-18.0709" y="-7.42555"/>
+            <visible>0</visible>
+            <offset x="-6.37944" y="-3.71576"/>
             <text><sym>metNoteQuarterUp</sym> = 80</text>
             </Tempo>
           <Rest>
@@ -558,7 +571,6 @@
               <text>Wol</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <velocity>100</velocity>
@@ -573,7 +585,6 @@
               <text>ken</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               <velocity>100</velocity>
@@ -587,7 +598,6 @@
               <text>fe</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <velocity>100</velocity>
@@ -597,7 +607,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -617,7 +626,6 @@
               <text>tzen</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <velocity>100</velocity>
@@ -627,7 +635,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               <velocity>100</velocity>
@@ -641,7 +648,6 @@
               <text>flat</text>
               </Lyrics>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <velocity>100</velocity>
@@ -1811,9 +1817,6 @@
           <Rest>
             <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
@@ -2621,7 +2624,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <velocity>88</velocity>
@@ -2631,7 +2633,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               <velocity>88</velocity>
@@ -2641,7 +2642,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <velocity>88</velocity>
@@ -2651,7 +2651,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -2664,7 +2663,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>64</pitch>
               <tpc>18</tpc>
               <velocity>88</velocity>
@@ -2681,7 +2679,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>67</pitch>
               <tpc>15</tpc>
               <velocity>88</velocity>
@@ -2700,7 +2697,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>70</pitch>
               <tpc>12</tpc>
               <velocity>88</velocity>
@@ -5855,7 +5851,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>#viio7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -5870,7 +5866,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               <velocity>88</velocity>
@@ -5880,7 +5875,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               <velocity>88</velocity>
@@ -5890,7 +5884,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>88</velocity>
@@ -5900,7 +5893,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
@@ -5913,7 +5905,6 @@
           <Chord>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>52</pitch>
               <tpc>18</tpc>
               <velocity>88</velocity>
@@ -5930,7 +5921,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>55</pitch>
               <tpc>15</tpc>
               <velocity>88</velocity>
@@ -5949,7 +5939,6 @@
                 </next>
               </Spanner>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>58</pitch>
               <tpc>12</tpc>
               <velocity>88</velocity>

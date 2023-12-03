@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -211,6 +210,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -276,9 +276,21 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>XV.
+Die Krähe.</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -291,7 +303,8 @@
           <Tempo>
             <tempo>0.63333300000000003</tempo>
             <followText>1</followText>
-            <offset x="-12.2311" y="-7.29868"/>
+            <visible>0</visible>
+            <offset x="-6.83504" y="-3.70131"/>
             <text><sym>metNoteQuarterUp</sym> = 38</text>
             </Tempo>
           <Rest>
@@ -6457,7 +6470,6 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
@@ -6469,7 +6481,6 @@
             <BeamMode>end</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -10277,7 +10288,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(b9)</name>
+            <name>V64(b9)/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10287,7 +10298,6 @@
               <tpc>15</tpc>
               </Note>
             <Note>
-              <color r="255" g="0" b="0" a="255"/>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>

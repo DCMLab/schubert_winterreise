@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -211,6 +210,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -277,9 +277,21 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>IV.
+Erstarrung.</text>
+          </Text>
+        </VBox>
       <Measure>
         <voice>
           <KeySig>
@@ -293,6 +305,7 @@
           <Tempo>
             <tempo>2.3333300000000001</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><sym>metNoteQuarterUp</sym> = 140</text>
             </Tempo>
           <Rest>
@@ -19161,7 +19174,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -19311,7 +19324,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -20100,7 +20113,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/v</name>
+            <name>#viio65/v</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -20412,7 +20425,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -20485,7 +20498,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -21100,7 +21113,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>#viio2</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -21200,7 +21213,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65</name>
+            <name>#viio65</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -21506,7 +21519,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(+4)</name>
+            <name>#viio43(+4)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -21783,7 +21796,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>#viio7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -21881,10 +21894,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -23376,7 +23385,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/ii</name>
+            <name>#viio65/ii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -23932,7 +23941,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/ii</name>
+            <name>#viio65/ii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25336,7 +25345,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio</name>
+            <name>#viio</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -26425,7 +26434,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7</name>
+            <name>#viio7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
