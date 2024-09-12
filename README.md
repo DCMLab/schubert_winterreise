@@ -29,4 +29,4 @@
 |n24      |      61|    79|2.1.0   |Alexander Faschon|Adrian Nagel      |
 
 
-*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
