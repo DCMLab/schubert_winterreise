@@ -14,6 +14,8 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Franz Schubert – Winterreise
 
+Schubert composed this groundbreaking song cycle in the form of a monodrama during the last year of his life. It was first presented at one of the composer's famous 'Schubertiades', musical gatherings at his residence in Vienna. Through the twenty-four numbers, the anguish at the speaker's loss of love is overtaken by a bleak existential depression. These songs have become an essential part of the classical singer's repertoire. Our annotations highlight the long contrapuntal elaborations and pedal points that support Schubert's innovative text-painting.
+
 ## Cite as
 
 ## Version history
