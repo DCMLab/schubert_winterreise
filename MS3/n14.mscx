@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -218,6 +217,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -284,10 +284,33 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>14.1557</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>14. Der greise Kopf</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
+          </Text>
+        </VBox>
       <Measure len="1/16">
         <irregular>1</irregular>
         <voice>
@@ -301,7 +324,7 @@
           <Tempo>
             <tempo>0.83333299999999999</tempo>
             <followText>1</followText>
-            <offset x="-23.8764" y="-8.31365"/>
+            <offset x="-3.29118" y="-2.99822"/>
             <text><sym>metNoteQuarterUp</sym> = 50</text>
             </Tempo>
           <Rest>
@@ -6359,6 +6382,13 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>1</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -6366,13 +6396,6 @@
                   <measures>1</measures>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>1</grace>
-                  </location>
-                </prev>
               </Spanner>
             <Articulation>
               <subtype>articAccentBelow</subtype>

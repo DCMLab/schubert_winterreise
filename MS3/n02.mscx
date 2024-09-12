@@ -307,13 +307,19 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0" y="6.21528"/>
-          <text>Die Wetterfahne</text>
+          <text>2. Die Wetterfahne</text>
           </Text>
         <Text>
-          <style>Instrument Name (Part)</style>
-          <offset x="54.1333" y="1.54861"/>
-          <text>II</text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
           </Text>
         </VBox>
       <Measure len="3/16">

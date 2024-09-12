@@ -308,13 +308,19 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="-1.98293" y="19.631"/>
-          <text>Gute Nacht</text>
+          <text>1. Gute Nacht</text>
           </Text>
         <Text>
-          <style>Instrument Name (Part)</style>
-          <offset x="67.8161" y="21.019"/>
-          <text>I</text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
           </Text>
         </VBox>
       <Measure>

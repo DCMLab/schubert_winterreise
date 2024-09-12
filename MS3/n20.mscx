@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -218,6 +217,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -284,10 +284,33 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>13.3825</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>20. Der Wegweiser</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
+          </Text>
+        </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
@@ -301,7 +324,7 @@
           <Tempo>
             <tempo>0.66666700000000001</tempo>
             <followText>1</followText>
-            <offset x="-18.5947" y="-8.05991"/>
+            <offset x="-5.83766" y="-3.03441"/>
             <text><sym>metNoteQuarterUp</sym> = 40</text>
             </Tempo>
           <Rest>

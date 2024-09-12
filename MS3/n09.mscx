@@ -141,7 +141,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -218,6 +217,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -284,10 +284,33 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
-      <VBox/>
+      <VBox>
+        <height>14.349</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>9. Irrlicht</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
+          </Text>
+        </VBox>
       <Measure>
         <stretch>1.1</stretch>
         <voice>
@@ -301,7 +324,7 @@
           <Tempo>
             <tempo>0.5</tempo>
             <followText>1</followText>
-            <offset x="-10.7772" y="-7.18458"/>
+            <offset x="-3.91546" y="-2.15908"/>
             <text><sym>metNoteQuarterUp</sym> = 30</text>
             </Tempo>
           <Rest>
@@ -5317,21 +5340,6 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.470588" y="0.235294"/>
-                  <offset x="0.470588" y="-0.235294"/>
-                  </SlurSegment>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <voices>3</voices>
-                  <fractions>1/32</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
                   <o1 x="-0.627451" y="-0.941176"/>
                   <o4 x="-1.4902" y="1.17647"/>
                   <offset x="1.33333" y="-1.41176"/>
@@ -5340,6 +5348,21 @@
                 </Slur>
               <next>
                 <location>
+                  <fractions>1/32</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o4 x="-0.470588" y="0.235294"/>
+                  <offset x="0.470588" y="-0.235294"/>
+                  </SlurSegment>
+                <up>down</up>
+                </Slur>
+              <next>
+                <location>
+                  <voices>3</voices>
                   <fractions>1/32</fractions>
                   </location>
                 </next>
@@ -8067,21 +8090,6 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.470588" y="0.235294"/>
-                  <offset x="0.470588" y="-0.235294"/>
-                  </SlurSegment>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <voices>3</voices>
-                  <fractions>1/32</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
                   <o1 x="-0.627451" y="-0.941176"/>
                   <o4 x="-1.4902" y="1.17647"/>
                   <offset x="1.33333" y="-1.41176"/>
@@ -8090,6 +8098,21 @@
                 </Slur>
               <next>
                 <location>
+                  <fractions>1/32</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o4 x="-0.470588" y="0.235294"/>
+                  <offset x="0.470588" y="-0.235294"/>
+                  </SlurSegment>
+                <up>down</up>
+                </Slur>
+              <next>
+                <location>
+                  <voices>3</voices>
                   <fractions>1/32</fractions>
                   </location>
                 </next>
