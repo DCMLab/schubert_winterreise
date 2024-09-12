@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/UXyil9O9Q-Yc8Q.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/dl72AuT0sOAaAg.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
@@ -22,8 +22,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.1"
+    "softwareVersion": "2.5.2"
   },
-  "git_revision": "08a498c723b9c82936c1263e1e6596b0aa9103fd",
-  "git_tag": "v2.0-14-g08a498c"
+  "git_revision": "641f92074020422ca60baef7317436366fe24553",
+  "git_tag": "v2.1-2-g641f920"
 }

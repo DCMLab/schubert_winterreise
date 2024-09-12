@@ -149,6 +149,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Alexander Faschon</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1828</metaTag>
     <metaTag name="composed_start">1827</metaTag>
     <metaTag name="composer"></metaTag>
@@ -280,6 +281,7 @@
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox/>
       <Measure len="1/8">
         <irregular>1</irregular>
         <voice>
