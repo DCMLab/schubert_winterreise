@@ -146,25 +146,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7312</metaTag>
     <metaTag name="annotators">Alexander Faschon</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1828</metaTag>
+    <metaTag name="composed_end">1827</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Winterreise</metaTag>
     <metaTag name="composed_start">1827</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Franz Schubert</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-12-17</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</metaTag>
+    <metaTag name="lyricist">Wilhelm Müller</metaTag>
+    <metaTag name="movementNumber">18</metaTag>
+    <metaTag name="movementTitle">Der stürmische Morgen</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/86dcae05-2e73-316c-a458-06a9f0613239</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Adrian Nagel</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178891571/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q110619331</metaTag>
+    <metaTag name="workNumber">D. 911, Op. 89</metaTag>
+    <metaTag name="workTitle">Winterreise</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
