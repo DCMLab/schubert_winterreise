@@ -153,24 +153,31 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7312</metaTag>
     <metaTag name="annotators">Alexander Faschon</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1828</metaTag>
+    <metaTag name="composed_end">1827</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Winterreise</metaTag>
     <metaTag name="composed_start">1827</metaTag>
     <metaTag name="composer">Franz Schubert</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-07-02</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</metaTag>
     <metaTag name="lyricist">Wilhelm Müller</metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Die Wetterfahne</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/2d92753d-b093-31d8-82f8-0cb4c46085a8</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Johannes Hentschel</metaTag>
     <metaTag name="source">http://musescore.com/user/4887176/scores/4373031</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178891571/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q110553597</metaTag>
+    <metaTag name="workNumber">D. 911, Op. 89</metaTag>
     <metaTag name="workTitle">Winterreise</metaTag>
     <Part>
       <Staff id="1">
@@ -295,119 +302,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>33</height>
-        <bottomGap>0</bottomGap>
-        <boxAutoSize>0</boxAutoSize>
-        <Text>
-          <style>Title</style>
-          <text>Winterreise</text>
-          </Text>
-        <Text>
-          <style>Subtitle</style>
-          <offset x="0.601768" y="19.4742"/>
-          <text>Op. 89</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="57.6481" y="11.9145"/>
-          <text>Ein Cyclus von Liedern von Wilhelm Müller.</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <size>14</size>
-          <bold>1</bold>
-          <offset x="33.6514" y="27.2854"/>
-          <text>Für eine Singstimme mit Begleitung des Pianoforte</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="84.0209" y="39.7471"/>
-          <text>componiert von</text>
-          </Text>
-        <Text>
-          <style>Composer</style>
-          <size>18</size>
-          <offset x="-62.9096" y="-7.60004"/>
-          <text>FRANZ SCHUBERT</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="80.961" y="7.39115"/>
-          <text>_______________</text>
-          </Text>
-        </VBox>
-      <VBox>
-        <height>55</height>
-        <topGap>0</topGap>
-        <bottomGap>0</bottomGap>
-        <boxAutoSize>0</boxAutoSize>
-        <Text>
-          <style>Frame</style>
-          <size>18</size>
-          <offset x="95.197" y="1.81869"/>
-          <text>Inhalt</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="26.6701" y="13.9179"/>
-          <text>Erste Abtheilung</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="27.2649" y="24.0751"/>
-          <text>I Gute Nacht
-II Die Wetterfahne
-III Gefror'ne Thränen
-IV Erstarrung
-V Der Lindenbaum
-VI Wasserfluth
-VII Auf dem Flusse
-VIII Rückblick
-IX Irrlicht
-X Rast
-XI Frühlingstraum
-XII Einsamkeit</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="122.914" y="13.1247"/>
-          <text>Zweite Abtheilung</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="122.578" y="23.1487"/>
-          <text>XIII Die Post
-XIV Der greise Kopf
-XV Die Krähe
-XVI Letzte Hoffnung
-XVII Im Dorfe
-XVIII Der stürmische Morgen
-XIX Täuschung
-XX Der Wegweiser
-XXI Das Wirtshaus
-XXII Muth
-XXIII Die Nebensonnen
-XXIV Der Leiermann</text>
-          </Text>
-        <Text>
-          <style>Frame</style>
-          <offset x="2.39964" y="2.50189"/>
-          <text>Leipzig, Verlag von Breitkopf &amp; Härtel</text>
-          </Text>
-        </VBox>
-      <VBox>
         <height>15</height>
         <topGap>0</topGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0" y="6.21528"/>
-          <text>Die Wetterfahne</text>
+          <text>2. Die Wetterfahne</text>
           </Text>
         <Text>
-          <style>Instrument Name (Part)</style>
-          <offset x="54.1333" y="1.54861"/>
-          <text>II</text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
           </Text>
         </VBox>
       <Measure len="3/16">

@@ -168,11 +168,7 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
-        "name": "crescendo_line",
-        "type": "string"
-      },
-      {
-        "name": "diminuendo_line",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
@@ -180,13 +176,17 @@
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "diminuendo_line",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_line",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "Pqym0xSFgAZ2gQ",
-    "filepath": "chords/Pqym0xSFgAZ2gQ.schema.yaml",
+    "identifier": "ybP0VV01OTVpgQ",
+    "filepath": "chords/ybP0VV01OTVpgQ.schema.yaml",
     "used_in": "n08"
   },
   "creator": {
@@ -199,8 +199,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.1"
+    "softwareVersion": "2.5.2"
   },
-  "git_revision": "08a498c723b9c82936c1263e1e6596b0aa9103fd",
-  "git_tag": "v2.0-14-g08a498c"
+  "git_revision": "641f92074020422ca60baef7317436366fe24553",
+  "git_tag": "v2.1-2-g641f920"
 }

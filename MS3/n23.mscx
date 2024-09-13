@@ -141,31 +141,37 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.76389</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7312</metaTag>
     <metaTag name="annotators">Alexander Faschon</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1828</metaTag>
+    <metaTag name="composed_end">1827</metaTag>
+    <metaTag name="composed_source">https://en.wikipedia.org/wiki/Winterreise</metaTag>
     <metaTag name="composed_start">1827</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Franz Schubert</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-12-20</metaTag>
     <metaTag name="harmony_version">2.1.0</metaTag>
-    <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</metaTag>
+    <metaTag name="lyricist">Wilhelm Müller</metaTag>
+    <metaTag name="movementNumber">23</metaTag>
+    <metaTag name="movementTitle">Die Nebensonnen</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/ac39ca1c-c000-3eaa-b6d7-4463496f3306</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Winterreise,_D.911_(Schubert,_Franz)</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">Adrian Nagel</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/178891571/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q111232820</metaTag>
+    <metaTag name="workNumber">D. 911, Op. 89</metaTag>
+    <metaTag name="workTitle">Winterreise</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -211,6 +217,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
           </Channel>
@@ -279,9 +286,33 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
+      <VBox>
+        <height>14.0591</height>
+        <boxAutoSize>0</boxAutoSize>
+        <Text>
+          <style>Title</style>
+          <text>23. Die Nebensonnen</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>from: Winterreise, D. 911, Op. 89</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Franz Schubert</text>
+          </Text>
+        <Text>
+          <style>Lyricist</style>
+          <text>Wilhelm Müller</text>
+          </Text>
+        </VBox>
       <Measure len="1/8">
         <irregular>1</irregular>
         <stretch>1.1</stretch>
@@ -296,7 +327,7 @@
           <Tempo>
             <tempo>0.56666700000000003</tempo>
             <followText>1</followText>
-            <offset x="-19.6096" y="-8.5674"/>
+            <offset x="-7.23914" y="-3.92848"/>
             <text><sym>metNoteQuarterUp</sym> = 34</text>
             </Tempo>
           <Rest>
@@ -1950,9 +1981,6 @@
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
