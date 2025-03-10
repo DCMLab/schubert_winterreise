@@ -31,7 +31,7 @@
       {
         "name": "quarterbeats",
         "type": "string",
-        "title": "Offset from Beginning",
+        "title": "Offset from Beginning (leaving out alternative endings)",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
         "constraints": {
           "pattern": "\\d+(?:\\/\\d+)?"
@@ -40,7 +40,7 @@
       {
         "name": "quarterbeats_all_endings",
         "type": "string",
-        "title": "Offset from Beginning (Including Endings)",
+        "title": "Offset from Beginning (counting through alternative endings as if they were adjacent bars)",
         "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "constraints": {
           "pattern": "\\d+(?:\\/\\d+)?"
@@ -174,21 +174,21 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
         "name": "diminuendo_line",
         "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "kWyEO2O82lW_lg",
-    "filepath": "chords/kWyEO2O82lW_lg.schema.yaml",
+    "identifier": "YEyUeqLcq35o3A",
+    "filepath": "chords/YEyUeqLcq35o3A.schema.yaml",
     "used_in": "n11"
   },
   "creator": {
@@ -201,8 +201,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
+    "softwareVersion": "2.5.4"
   },
-  "git_revision": "641f92074020422ca60baef7317436366fe24553",
-  "git_tag": "v2.1-2-g641f920"
+  "git_revision": "0c85f1b5cbd4542b3273103b7890f05e4ef4f05c",
+  "git_tag": "v2.2"
 }
